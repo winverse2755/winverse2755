@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winverse2755
+- 👋 Hi, I’m winverse
 - 👀 I’m interested in blockchain engineering
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on solidity projects

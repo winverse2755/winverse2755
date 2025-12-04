@@ -1,7 +1,7 @@
 - 👋 Hi, I’m winverse
 - 👀 I’m interested in blockchain engineering
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on solidity projects
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on engineering projects
 - 📫 You can reach me via email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime
